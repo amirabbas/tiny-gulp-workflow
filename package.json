@@ -1,0 +1,14 @@
+{
+  "name": "workflow",
+  "version": "0.1.0",
+  "description": "",
+  "author": "Amir-abbas Abdolali",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.7.6",
+    "gulp": "^3.8.11",
+    "gulp-autoprefixer": "^2.3.0",
+    "gulp-ruby-sass": "^1.0.5",
+    "gulp-sourcemaps": "^1.5.2"
+  }
+}
